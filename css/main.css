@@ -1,1 +1,132 @@
 /* Agrega aquí tus estilos*/
+
+/* Agrega aquí tus estilos*/
+* {
+	margin: 0;
+	font-family:'Open Sans Condensed', sans-serif;
+	
+}
+
+body{
+	text-align: center;
+	/*background: url(../img/photo.jpg);*/
+
+}
+h1{
+	color: rgb(0, 0, 0);
+}
+
+h2, h3{
+	margin: 0;
+	padding: 0;
+	color: rgb(204, 0, 204);
+}
+
+header {
+	background : url() center top no-repeat transparent;
+	border : #999999 dotted 0;
+	width : 800px;
+	height : 500px;
+}
+
+section{
+
+}
+
+section header{
+	background-repeat: no-repeat;
+	background-image: url(../img/foto1.jpg);
+	width: 1000px;	
+	height: 400px;
+	display: block;
+	margin: auto;
+}
+
+a {
+	color: rgb(117, 26, 255);
+}
+
+footer {
+	position : relative;
+	top : 20px;
+	left : 100px;
+	width : 370px;
+	border : #000000 solid 1;
+	margin : 0;
+	padding : 5px;
+	text-align : center;
+}
+
+.summary {
+
+padding : 5px 5px 15px 5px;
+position : relative;
+left : 150px;
+width : 1000px;
+margin : 0 0 0 0;
+border : #000000 solid 0;
+}
+
+.preamble {
+
+padding : 25px 5px 15px 5px;
+position : relative;
+top : 20px;
+left : 400px;
+width : 500px;
+margin : 0 0 0 0;
+border : #000000 solid 0;
+}
+
+.explanation {
+
+	padding : 25px 5px 15px 5px;
+	margin : 0 0 0 0;
+	position : relative;
+	top : 30px;
+	left : 450px;
+	width : 370px;
+	border : #000000 solid 0;
+}
+
+.participation {
+
+	padding : 25px 5px 15px 5px;
+	position : relative;
+	top : 10px;
+	left : 450px;
+	width : 370px;
+	margin : 0 0 0 0;
+	border : #000000 solid 0;
+}
+
+.benefits {
+
+	padding : 25px 5px 15px 5px;
+	position : relative;
+	top : 20px;
+	left : 450px;
+	width : 370px;
+	margin : 0 0 0 0;
+	border : #000000 solid 0;
+}
+
+.requirements {
+
+	padding : 25px 5px 15px 5px;
+	position : relative;
+	top : 30px;
+	left : 450px;
+	width : 370px;
+	margin : 0 0 0 0;
+	border : #000000 solid 0;
+}
+
+.sidebar {
+    font-family: 'Open Sans Condensed', sans-serif;
+    top: 200px;
+    width: 250px;
+    margin: 0;
+    padding: 150px 0 700px 0;
+    list-style: none;
+}
